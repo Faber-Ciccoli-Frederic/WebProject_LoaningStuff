@@ -1,0 +1,5 @@
+C:\Users\Darkness\Desktop\master_2\Nouveau dossier\Project Loan Stuff\LoanProjectStuffsWeb\DataContracts\bin\Debug\DataContracts.dll
+C:\Users\Darkness\Desktop\master_2\Nouveau dossier\Project Loan Stuff\LoanProjectStuffsWeb\DataContracts\bin\Debug\DataContracts.pdb
+C:\Users\Darkness\Desktop\master_2\Nouveau dossier\Project Loan Stuff\LoanProjectStuffsWeb\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\Darkness\Desktop\master_2\Nouveau dossier\Project Loan Stuff\LoanProjectStuffsWeb\DataContracts\obj\Debug\DataContracts.dll
+C:\Users\Darkness\Desktop\master_2\Nouveau dossier\Project Loan Stuff\LoanProjectStuffsWeb\DataContracts\obj\Debug\DataContracts.pdb
