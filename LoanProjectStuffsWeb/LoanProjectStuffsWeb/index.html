@@ -1,0 +1,98 @@
+<html>
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <meta name="description" content="">
+            <meta name="author" content="">
+            <link rel="icon" href="">
+        
+            <title>Loaning Stuff</title>
+        
+            <!-- Bootstrap core CSS -->
+            <link href="css/bootstrap.min.css" rel="stylesheet">
+            <link href="css/style.css" rel="stylesheet">
+        
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container">
+                    <a class="navbar-brand" href="#">Loaning Stuff</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+            
+                    <div class="collapse navbar-collapse" id="navbarsExample07">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
+                            </li>
+                            <!-- Admin -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Gestion utilisateurs</a>
+                            </li>
+                            <li class="nav-item">
+                                    <a class="nav-link" href="#">Gestion objets</a>
+                                </li>
+                            <!-- Fin Admin -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="my-stuff.html">Mes objets</a>
+                            </li>
+                        </ul>
+                        <div class="my-2 my-md-0">
+                                <a class="nav-link danger" href="login.html">Déconnexion</a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <div class="container">
+                <div id="log-ins">
+                    <h1 class="text-center">Listes des objets</h1>
+                    <table class="table table-responsive-md table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Titre</th>
+                                <th scope="col">Description</th>
+                                <th scope="col">Etat</th>
+                                <th class="text-center" scope="col">Sélectionné</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Uno</td>
+                                <td>Carte </td>
+                                <td>casser</td>
+                                <td class="text-center"><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Yun</td>
+                                <td>Carte</td>
+                                <td>moyen</td>
+                                <td class="text-center"><input type="checkbox"/></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>NFC Shield</td>
+                                <td>pour utiliser nfc avec un arduino</td>
+                                <td>@bon</td>
+                                <td class="text-center"><input type="checkbox"/></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <button class="btn btn-primary">Faire une demande</button>
+                </div>
+            </div>
+            <footer class="footer">
+                <div class="container">
+                    <span class="text-muted">Univ Corse Master2.</span>
+                </div>
+            </footer>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+        <script src="js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+        </body>
+    </html>

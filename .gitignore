@@ -1,0 +1,5 @@
+.DS_Store
+LoanProjectStuffsWeb/.vs
+LoanProjectStuffsWeb/LoanProjectStuffsWeb/bin/
+LoanProjectStuffsWeb/LoanProjectStuffsWeb/obj/
+LoanProjectStuffsWeb/LoanProjectStuffWebApi/obj/Debug
